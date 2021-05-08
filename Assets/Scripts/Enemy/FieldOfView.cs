@@ -7,7 +7,6 @@ namespace Enemy
 {
 	public class FieldOfView : MonoBehaviour 
 	{
-		//Взял с гитхаба
 		//https://github.com/SebLague/Field-of-View
 		
 		public float viewRadius;
