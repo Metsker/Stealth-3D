@@ -7,9 +7,8 @@ namespace Enemy
 {
 	public class FieldOfView : MonoBehaviour 
 	{
-		//Взял этот скрипт с гитхаба
+		//Взял с гитхаба
 		//https://github.com/SebLague/Field-of-View
-		//Пока не такой большой опыт в скриптинге мешей, но обязательно наверстаю
 		
 		public float viewRadius;
 		[Range(0,360)]
